@@ -18,7 +18,7 @@ const myFunctionIsNice = (name: string): void => {
 
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="delprofundo/delprofundo.github.io"
         issue-term="pathname"
         theme="github-dark"
         crossorigin="anonymous"

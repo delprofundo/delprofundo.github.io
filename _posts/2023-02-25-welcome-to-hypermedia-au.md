@@ -15,3 +15,12 @@ const myFunctionIsNice = (name: string): void => {
   console.log(`Hi there ${ name }, welcome to my blog!`)
 }
 ```
+
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>

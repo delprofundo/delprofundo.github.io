@@ -2,7 +2,7 @@
 
 Welcome to the first post in my blog here at hypermedia.au. I guess its time to introduce myself.
 
-My name is Bruno, I live in Brisbane Australia and have been working in technology for my entire live, to properly introduce my journey would take a few posts unto itself.
+My name is Bruno, I live in Brisbane Australia and have been working in technology for my entire life, to properly introduce my journey would take a few posts, maybe something for another time.
 
 I've spent most of the last 25 years working in the Web and Cloud spaces. Currently I work in cloud platform architecture and automation, most of my day-to-day takes place in the world of digital transformation.
 
